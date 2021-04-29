@@ -20,11 +20,11 @@ The Diminsion tables are responsible for the storage of all the properties of th
 
 Time - contains the time in diffrent units- start_time, hour, day, week, month, year, weekday.
 
-songs- all the songs in the music app - song_id, title, artist_id, year, duration.
+Songs- all the songs in the music app - song_id, title, artist_id, year, duration.
 
-users - the users that use the app - ser_id, first_name, last_name, gender, level.
+Users - the users that use the app - ser_id, first_name, last_name, gender, level.
 
-artists - The artists that published the song - artist_id, name, location, lattitude, longitude
+Artists - The artists that published the song - artist_id, name, location, lattitude, longitude
 
 
 
