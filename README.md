@@ -31,7 +31,9 @@ artists - The artists that published the song - artist_id, name, location, latti
 The Project Includes 3 scripts: 
 
 1.Create_tables.py - create a database and creates tables
+
 2.Sql_Queries.py - contains all the sql queries that the etl script uses. 
+
 3.etl.py - script that extracts data from the log files and song directories,transforms the data and inserts it into star-schema.
 
 To run the ETl Pipeline simply first  run the 'create_tables.py' script and afterwards run 'etl.py' script.
